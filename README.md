@@ -12,6 +12,7 @@ I build dashboards and data models that turn raw business data into decisions, a
 - **M.Tech in AI, Machine Learning & Data Science**, IIIT Kottayam (expected 2027)
 - **Part-time Data Analytics Trainer** at FITA Academy, teaching Python, SQL, Power BI and ML
 - **Microsoft Certified:** Power BI Data Analyst Associate (PL-300) · Fabric Data Engineer Associate
+- **2× Winner, GUVI KnowlBook** contests for teaching notebooks on [ML classification algorithms and advanced Python](https://github.com/30Umamaheswari/KnowlBook)
 
 ### Currently
 
